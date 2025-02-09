@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithmi Desilva</h1>
-<h3 align="center">Aspiring AI and DataScience Undergraduate| Tech Enthusiast| Passionate Leaner| Problem Solver </h3>
+<h3 align="center"> Aspiring AI and DataScience Undergraduate | Tech Enthusiast | Passionate Leaner | Problem Solver </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithmidesilva&label=Profile%20views&color=0e75b6&style=flat" alt="sithmidesilva" /> </p>
 
